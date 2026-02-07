@@ -1,19 +1,5 @@
 {
-  "name": "unipay-marketplace-miniapp",
-  "version": "2.0.0",
-  "description": "UniPay MarketPlace Mini App в стиле Playerok с айфоновскими эмодзи",
-  "main": "index.html",
-  "scripts": {
-    "dev": "python -m http.server 8000",
-    "deploy": "vercel --prod"
-  },
-  "keywords": [
-    "telegram",
-    "miniapp",
-    "marketplace",
-    "playerok",
-    "brawl-stars"
-  ],
-  "author": "UniPay",
-  "license": "MIT"
+  "name": "unipay-miniapp",
+  "version": "1.0.0",
+  "description": "UniPay MarketPlace Mini App"
 }
